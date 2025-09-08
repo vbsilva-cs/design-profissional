@@ -1,0 +1,57 @@
+Empresa Reino Educação
+DEV - Analista Desenvolvedor Júnior
+
+
+
+Candidatura rápida
+Florianópolis, Santa Catarina
+·
+R$ 3 mil (fornecido pela empresa)
+
+
+Candidatura rápida
+Vaga para Desenvolvedor (DEV) – Presencial (PJ)
+
+Local: Florianópolis - SC | Regime: Pessoa Jurídica (PJ) | Presencial
+
+Estamos em busca de um(a) Desenvolvedor(a) Júnior para integrar nosso time de tecnologia.
+Você irá atuar com desenvolvimento de soluções digitais, integrações entre sistemas (CRM, Marketing Automation) e terá contato direto com projetos que envolvem Inteligência Artificial aplicada a negócios.
+
+É a chance ideal para quem deseja iniciar ou consolidar a carreira em tecnologia, participando de projetos reais em um ambiente dinâmico e inovador.
+
+Responsabilidades:
+
+Desenvolver e dar manutenção em soluções web e APIs
+Criar integrações entre sistemas (CRM, Marketing, automações)
+Apoiar no desenvolvimento de funcionalidades com Inteligência Artificial
+Contribuir na otimização de processos internos via automação
+Documentar implementações, integrações e processos
+Colaborar com o time propondo melhorias técnicas
+Requisitos:
+
+Conhecimento em JavaScript/TypeScript, Python ou Node.js
+Noções de APIs REST e consumo de integrações
+Familiaridade com bancos de dados relacionais ou não-relacionais
+Experiência prévia em projetos (acadêmicos, pessoais ou profissionais)
+Vontade de aprender e evoluir constantemente
+Diferenciais:
+
+Conhecimento de CRMs (Bitrix)
+Noções de Marketing Digital e automação de processos
+Contato prévio com bibliotecas ou frameworks de IA (OpenAI, LangChain, TensorFlow, etc.)
+Experiência com metodologias ágeis (Scrum, Kanban)
+Contratação:
+
+PJ (Pessoa Jurídica)
+Jornada presencial em nossa sede em Florianópolis
+Faixa de remuneração: R$ 2.500 a R$ 3.000, a depender do nível de experiência e domínio técnico
+Se você gosta de resolver problemas com tecnologia, ama pensar em soluções práticas e quer fazer parte de uma equipe inovadora, essa vaga é pra você!
+
+Tipo de vaga: Autônomo / PJ
+Duração do contrato: 12 meses
+
+Pagamento: R$2.500,00 - R$3.000,00 por mês
+
+Pergunta(s) de seleção:
+
+Essa é uma vaga para atuar presencialmente no bairro Saco Grande, em qual bairro você mora?

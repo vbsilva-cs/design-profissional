@@ -1,0 +1,49 @@
+Empresa: DEVPARTNER
+Desenvolvedor Back-End .Net Core Júnior
+
+
+
+Candidatura rápida
+São Paulo, São Paulo
+·
+R$ 5 mil (fornecido pela empresa)
+
+
+Candidatura rápida
+Requisitos Técnicos:
+
+Experiência com .NET Core
+Experiência com VB.NET e ASP.NET WebForms
+Desenvolvimento de APIs RESTful
+Conhecimento em Pipelines de CI/CD
+Banco de dados SQL Server e MongoDB
+Consumo de APIs REST
+Noções de HTML, CSS e JavaScript
+Controle de versão com Git, preferencialmente utilizando Azure DevOps
+Escrita de documentação técnica e testes automatizados (unidade e integração)
+HABILIDADES PARA O CARGO:
+
+Princípios de IoC (Inversão de Controle)
+Conhecimento em DDD (Domain-Driven Design)
+Injeção de Dependência aplicada em projetos reais
+Experiência com AutoMapper
+Uso de FluentValidation
+Conhecimento em Dapper
+Familiaridade com ADO.NET
+MAIS INFORMAÇÕES:
+
+Empresa: Devpartner
+Regime: PJ
+Horário: Segunda à sexta, das 9h às 18 (3x presencial, 2x home-office)
+Benefícios: TotalPass, Assistência médica, descanso remunerado após um ano de empresa
+Tipo de vaga: Autônomo / PJ
+
+Pagamento: R$5.000,00 por mês
+
+Benefícios:
+
+Assistência médica
+Horário de trabalho:
+
+De segunda à sexta-feira
+Turno de 8 horas

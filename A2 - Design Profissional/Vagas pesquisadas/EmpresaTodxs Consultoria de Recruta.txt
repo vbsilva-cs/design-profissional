@@ -1,0 +1,70 @@
+Empresa:Todxs Consultoria de Recrutamento e Seleção LTDA
+Desenvolvedor(a) Back-end Júnior - PcD
+
+
+
+Candidatura rápida
+Rio de Janeiro, Rio de Janeiro
+·
+R$ 4 mil - R$ 7 mil (fornecido pela empresa)
+
+
+Candidatura rápida
+Plataforma digital atuante na prestação de serviços fiduciários contrata para atuar em seu escritório na Barra da Tijuca - RJ:
+
+Desenvolvedor(a) Back-end Júnior - PcD
+
+Formação: Ensino Médio completo.
+
+Requisitos e Qualificações/Tecnologias que utilizamos:
+
+· Linguagens: PHP
+
+· Frameworks: Laravel, Lumen
+
+· Bancos de Dados: MySQL, SQL Server, PostgreSQL, MongoDB
+
+Atividades:
+
+· Desenvolver e manter funcionalidades no Back-end;
+
+· Contribuir na evolução contínua dos nossos sistemas;
+
+· Pesquisar e implementar novas ferramentas e tecnologias que otimizem processos e soluções;
+
+· Conhecimento da metodologia de trabalho SCRUM.
+
+Local: Barra da Tijuca, Rio de Janeiro, RJ
+
+Horário: De segunda à sexta-feira, de 9h às 18h
+
+Modalidade híbrido: 100% presencial no período de experiência e depois 3 dias na empresa.
+
+A empresa oferece salário e benefícios bem atrativos!
+
+Tipo de vaga: Efetivo CLT
+
+Pagamento: R$4.000,00 - R$7.000,00 por mês
+[informação acrescida: 6 mil/mês (mediana)]
+
+Benefícios:
+
+Assistência médica
+Assistência odontológica
+Auxílio-combustível
+Auxílio-creche
+Convênios e descontos comerciais
+Participação nos lucros
+Seguro de vida
+Vale-alimentação
+Vale-refeição
+Vale-transporte
+Pergunta(s) de seleção:
+
+Você é uma pessoa com deficiência? Em caso positivo, qual a sua deficiência?
+Experiência:
+
+Desenvolvedor Back-end (Preferencial)
+PHP (Obrigatório)
+Laravel (Preferencial)
+Você é uma pessoa com deficiência? (Obrigatório)

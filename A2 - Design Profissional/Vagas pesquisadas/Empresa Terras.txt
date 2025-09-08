@@ -1,0 +1,93 @@
+Empresa Terras
+4,7
+Pessoa desenvolvedora Web Júnior
+
+
+
+Candidate-se no site da empresa
+Trabalho remoto
+·
+R$ 4 mil (fornecido pela empresa)
+
+
+Candidate-se no site da empresa
+Se você procura uma empresa que possua um ambiente colaborativo, inovação constante, com grandes oportunidades e que tenha como propósito causar impacto positivo na sociedade, seu lugar é conosco!
+
+
+Nós desenvolvemos aplicações web e mobile, com as seguintes tecnologias / frameworks:
+
+PHP - CakePHP, Laravel
+NodeJs / Elixir
+Javascript - ReactJs, Angular
+Banco de dados: PostgreSQL / PostGIS / Realm
+Android: Java / Kotlin
+Google Earth Engine
+AWS / GCP
+
+Aqui você poderá aprender isso e muito mais, dependendo do caminho que você escolher.
+
+
+Responsabilidades e atribuições
+
+Principais atribuições para o cargo:
+
+Codificação e documentação de aplicações
+Estudar regras de negócios das soluções desenvolvidas
+Participar da modelagem de soluções tecnológicas junto a clientes
+Participar de rotinas em equipes ágeis e multidisciplinares
+Codificação de testes unitários e de usabilidade
+Manutenção de softwares legados
+Atendimento, em nível básico, a chamados de Help desk
+
+Requisitos e qualificações
+
+Requisito obrigatório:
+
+Graduação em TI
+
+Conhecimentos obrigatórios:
+
+Uma ou mais linguagens modernas de programação voltadas para Web (PHP, Python, Javascript, Java)
+
+Conhecimentos desejáveis:
+
+Banco de dados relacionais e/ou não relacionais
+Lógica de programação
+Linguagens de programação orientada a objetos
+Testes de software
+Métodos ágeis
+Padrões de projeto
+Inglês básico
+
+Aspectos complementares para o cargo:
+
+Boa capacidade de sinergia e trabalho em equipe
+Boa capacidade de planejamento
+Trabalho com orientação para resultados
+Boa capacidade de aprendizagem e desenvolvimento
+Conhecimentos em desenvolvimento ágil de software
+Conhecimento prático em qualidade de software
+Boa capacidade analítica
+Boa capacidade de entrega
+
+Informações adicionais
+
+Diferenciais:
+
+Ambiente sadio e colaborativo
+Horário flexível
+Sem "dress code"
+Frutas e outros alimentos (quando no escritório)
+Interações com empresas no mundo inteiro
+
+Salários e benefícios
+
+
+Salário: R$ 3.781,75
+Vale alimentação (R$ 1.000,00)
+Plano de saúde com cobertura nacional - (100% pago pela empresa)
+Plano odontológico com cobertura nacional - (100% pago pela empresa)
+Seguro de vida - (R$ 50.000,00 a apólice)
+Auxílio transporte
+
+No decorrer da nossa história desenvolvemos tecnologias de ponta para a elaboração e estruturação de sistemas para coleta, armazenamento, visualização e gestão de dados, sob forma mobile, plataforma on-line e banco de dados geoespacial; além de ampla experiência no desenvolvimento de soluções para o mapeamento e monitoramento de uso e cobertura do solo em todo o território nacional.

@@ -1,0 +1,84 @@
+Empresa: Logotipo da Nexer
+Nexer
+3,9
+Desenvolvedor(a) .NET Back-end Júnior
+
+
+
+Candidatura rápida
+Barueri
+·
+R$ 5 mil - R$ 7 mil (fornecido pela empresa)
+
+
+Candidatura rápida
+NEXER
+
+Quer fazer parte de uma empresa inovadora, que está transformando o mercado de Dynamics e conta com mais de 300 especialistas na plataforma Microsoft Dynamics 365 F&O, CRM e Business Central?
+
+Venha para a Nexer Brazil uma empresa com mais de 16 anos no mercado, que faz parte de uma Multinacional Sueca presente em 9 países com mais de 2.600 funcionários no mundo. Somos uma das maiores parceiras Microsoft na América Latina e a principal consultoria brasileira de implantação do ERP Dynamics 365 F&O, Dynamics 365 CRM e Business Central.
+
+Na Nexer Brasil, fazemos parceria com a principal empresa mundial de software, a Microsoft, para oferecer a você a melhor plataforma possível construída com as tecnologias mais recentes. E como Microsoft Partner com selos nas 5 SOLUTIONS AREAS , somos líderes na comunidade de parceiros e podemos oferecer a você:
+
+Uma equipe unificada de especialistas com treinamento avançado e ampla experiência na tecnologia que hoje é líder mundial.
+O mais alto nível de padrões em toda a indústria.
+As melhores ferramentas e frameworks da categoria.
+Experiência consultiva em uma das melhores empresas de implementação dos produtos Microsoft do setor.
+Certificações Microsoft.
+Nosso momento...
+
+Estamos em franca expansão e buscamos novos profissionais para integrar o nosso time de Custom Apps
+
+O profissional irá atuar em projetos de portais desenvolvidos para suprir a necessidade novos módulos e funcionalidades complementares ao ecossistema de aplicações empresariais em nuvem Microsoft – ERP e CRM, como, por exemplo, Sistemas de atendimento, Portal de vendas integrado, etc.
+
+Realizará desenvolvimento em C#, lançando mão de uma gama grande de ferramentas e serviços do Azure como Azure Logic Apps, Azure Functions, Azure SQL Database. Para isso é importante o conhecimento das principais arquiteturas de aplicação e bibliotecas, como EF, OData, padrões de APIs. Há espaço também para o conhecimento de Frontend, atuando assim como Fullstack, utilizando Angular/ React.
+
+Nestes projetos, irá atuar com a metodologia ágil e utilizando ferramentas como o Azure DevOps para gestão das atividades, assim como repositório e versionamento de código (git).
+
+Irá trabalhar em equipes com outros desenvolvedores e outros profissionais como consultores funcionais, gerentes de projetos, analistas de dados e arquitetos.
+
+Possibilidade de trabalhar com clientes internacionais, onde poderá aprimorar as habilidades em outros idiomas como inglês e espanhol.
+
+Faixa Salarial: R$ 5.000,00 a R$ 7.000,00 (PJ)
+[Informação adicional: 6 mil/ mês (mediana)]
+
+Venha ser um Nexer
+
+
+Requisitos:
+
+O que esperamos de você:
+
+Desenvolvimento .NET;
+Experiência em back-end para portais
+Autenticação / Autorização
+Integração com outros sistemas
+Arquitetura orientada a serviços
+Criação de APIs;
+Conhecimento de SQL;
++1 ano de experiência
+O que aumentam as suas chances:
+
+Inglês avançado;
+Aplicação de Design Patterns;
+Serviços do Azure;
+Experiência em sistemas / portais empresariais;
+Nível de experiência: Júnior (1+ ano de experiência).
+
+Benefícios
+
+PJ:
+
+Plano de Saúde Porto Seguro
+
+️ Ausência Remunerada - 10 dias ao ano
+
+️ Incentivo Idiomas - Plataforma Open English
+
+Cartão Multibenefícios de R$ 500,00 a R$ 1.000 se você fala inglês (mediante a teste)
+
+‍ Parcerias com: Mackenzie, USP Esalq, Senac e Renault on Demand
+
+Certificações Microsoft
+
+Possibilidade de atuação em projetos internacionais

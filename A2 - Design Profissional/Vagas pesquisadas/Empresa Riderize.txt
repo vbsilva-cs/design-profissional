@@ -1,0 +1,34 @@
+Empresa: Riderize
+Desenvolvedor Backend Node.JS Júnior
+
+
+
+Candidatura rápida
+Rio do Sul
+·
+R$ 3 mil - R$ 4 mil (fornecido pela empresa)
+[informação adicional: 4 mil/mês (mediana)
+
+Candidatura rápida
+Como Desenvolvedor(a) Backend focado em NodeJS você será responsável por desenvolver a estrutura que serve o Aplicativo e a Plataforma WEB, incluindo integrações com terceiros e proporcionando que os usuários tenham a melhor experiência final com o App. Também (se não conhece) terá contato com DevOps.
+
+Como será seu dia a dia:
+
+Implementar novos recursos no backend para a Plataforma.
+Otimizar performance.
+Implantar melhorias de código ou de lógica para o melhor funcionamento da aplicação.
+Desenvolver ferramentas inteligentes capazes de criar valor para as pessoas.
+Garantir que os códigos estejam na qualidade esperada.
+Realizar testes de forma a garantir que as funcionalidades desenvolvidas atendam ao que foi especificado;
+Realizar correções de bugs;
+Realizar manutenção e otimização no código quando necessário;
+Tipo de vaga: Tempo Integral, Efetivo/CLT
+
+Pagamento: R$3.000,00 - R$4.000,00 por mês
+
+Horário de trabalho:
+
+Turno de 8 horas
+Pergunta(s) de seleção:
+
+Você pode mudar para a cidade da empresa?

@@ -1,0 +1,55 @@
+Empresa: Logotipo da Fundação Ezute
+Fundação Ezute
+3,4
+DESENVOLVEDOR JR.
+
+
+
+Candidatura rápida
+São Paulo, São Paulo
+·
+R$ 6 mil (fornecido pela empresa)
+
+
+Candidatura rápida
+Descrição da Vaga:
+Principais Responsabilidades: Entender os requisitos especificados para o projeto e as especificacoes de software; Estimar tempo para cada tarefa identificada; Desenvolver o codigo fonte dos projetos segundo a documentacao de software; Realizar testes unitarios dos codigos desenvolvidos para os projetos; Integrar o software desenvolvido no produto; Corrigir problemas encontrados pela equipe de teste; Elaborar os documentos de design de software dos projetos; Auxiliar no trabalho dos analistas menos experientes.
+
+Requisitos Indispensáveis:
+Qualificações Requeridas:
+
+Formação: Formação superior completa em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas.
+
+Conhecimentos Específicos e Habilidades:
+Domínio de programação orientada a objetos e padrões de projetos
+Bons conhecimentos em JAVA (JEE) com JPA. EJB
+Experiência em integração entre sistemas (SOAP / REST)
+Bons conhecimentos de PL/SQL
+Domínio de HTML/CSS/Javascript
+
+Requisitos Desejáveis:
+Desenvolvimento de aplicações distribuídas
+Desenvolvimento com georeferenciamento
+
+Regime de Contratação:
+CLT
+
+PCD:
+INDIFERENTE
+
+Salário:
+$6,000.00
+
+Benefícios:
+Vale-Alimentação
+Vale-Refeição
+Seguro de Vida
+Assistência médica
+Assistência odontologica (opcional)
+Vale-Transporte
+
+Local do Trabalho:
+EZUTE - MATRIZ
+
+Horário de Trabalho:
+Padrão da Ezute
